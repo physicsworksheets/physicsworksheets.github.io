@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta name="generator" content="Hugo 0.139.5"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Physics Worksheets | Resources for Teachers</title>
@@ -9,16 +8,7 @@
     <link rel="stylesheet" href="/css/custom.css">
 </head>
 <body>
-    <header class="site-header">
-    <div class="header-container">
-        <a href="/" class="logo">Physics Worksheets</a>
-        <nav class="nav-menu">
-            <a href="/worksheets">Worksheets</a>
-        </nav>
-    </div>
-</header>
-
-
+    {{ partial "header.html" . }}
 
     <main class="landing-page">
         <h1>Physics Worksheets</h1>
@@ -30,7 +20,7 @@
         </p>
         </div>
 
-        
+        <!-- Thumbnail Grid for Categories -->
         <div class="grid-container">
             <div class="grid-item">
                 <a href="/worksheets/waves/">

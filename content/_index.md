@@ -2,7 +2,7 @@
    title: "Physics Worksheets"
 ---
 
-Welcome! Click on the links below to access the worksheets:
+Welcome! Explore a wide range of physics worksheets on kinematics, work, and energy, momentum, electricity and magnetism, and more! Click on the links below to access the worksheets:
 
 [Energy Worksheets](worksheets/energy)
 
