@@ -1,0 +1,9 @@
+baseURL = "https://physicsworksheets.com"
+languageCode = "en-us"
+title = "Physics Worksheets"
+theme = "ananke"
+[params]
+background_color_class = "bg-gray"
+text_color="black"
+
+

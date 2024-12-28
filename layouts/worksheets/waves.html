@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/custom.css">
+</head>
+<body>
+
+{{partial "header.html" . }}
+
+    <!-- Grid Container -->
+    <div class="grid-container">
+        <!-- Dynamically Load Data -->
+        {{ range .Site.Data.worksheets.waves.worksheets }}
+        <div class="grid-item">
+            <a href="{{ .link }}">
+                <img src="{{ .image }}" alt="{{ .title }}" class="thumbnail">
+                <h2>{{ .title }}</h2>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</body>
+</html>
+
