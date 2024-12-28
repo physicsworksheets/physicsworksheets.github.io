@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/jieunyoo/physics-worksheets",
+	"sourceRoot": "/Users/jieunyoo/physicsworksheets.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
