@@ -1,4 +1,4 @@
-baseURL = "https://physicsworksheets.com"
+baseURL = "https://physicsworksheets.github.io"
 languageCode = "en-us"
 title = "Physics Worksheets"
 theme = "ananke"
