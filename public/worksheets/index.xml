@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Worksheets on Physics Worksheets</title>
-    <link>http://localhost:1313/worksheets/</link>
+    <link>https://physicsworksheets.github.io/worksheets/</link>
     <description>Recent content in Worksheets on Physics Worksheets</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/worksheets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://physicsworksheets.github.io/worksheets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Energy Worksheets</title>
-      <link>http://localhost:1313/worksheets/energy/</link>
+      <link>https://physicsworksheets.github.io/worksheets/energy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/worksheets/energy/</guid>
+      <guid>https://physicsworksheets.github.io/worksheets/energy/</guid>
       <description></description>
     </item>
     <item>
       <title>Momentum Worksheets</title>
-      <link>http://localhost:1313/worksheets/momentum/</link>
+      <link>https://physicsworksheets.github.io/worksheets/momentum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/worksheets/momentum/</guid>
+      <guid>https://physicsworksheets.github.io/worksheets/momentum/</guid>
       <description></description>
     </item>
     <item>
       <title>Oscillations and Waves Worksheets</title>
-      <link>http://localhost:1313/worksheets/waves/</link>
+      <link>https://physicsworksheets.github.io/worksheets/waves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/worksheets/waves/</guid>
+      <guid>https://physicsworksheets.github.io/worksheets/waves/</guid>
       <description></description>
     </item>
   </channel>
