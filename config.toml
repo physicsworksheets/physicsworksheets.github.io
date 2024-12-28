@@ -2,6 +2,8 @@ baseURL = "https://physicsworksheets.github.io/"
 languageCode = "en-us"
 title = "Physics Worksheets"
 theme = "ananke"
+canonifyURLS = true
+relativeURLS = true
 [params]
 background_color_class = "bg-gray"
 text_color="black"
