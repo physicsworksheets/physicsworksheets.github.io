@@ -1,0 +1,13 @@
+worksheets:
+  - title: "Maze: Determine whether objects are speeding up or slowing down based on their velocity and acceleration"
+    image: "/images/velocity-acceleration_maze_practice.png"
+    link: "https://www.teacherspayteachers.com/Product/Velocity-and-Acceleration-Maze-Speeding-up-or-slowing-down-12483511"
+  - title: "Maze: Calculate vector components"
+    image: "/images/vector_components_physics_maze.png"
+    link: https://www.teacherspayteachers.com/Product/Physics-Vector-Maze-Activity-using-vector-components-the-Pythagorean-theorem-12580682
+  - title: "Puzzle: Decode the hidden message by solving kinematic problems"
+    image: "/images/kinematics_puzzle.png"
+    link: "https://www.teacherspayteachers.com/Product/Physics-and-AP-Physics-kinematics-review-puzzle-12484533"
+  - title: "Google Form Escape Room: Solve kinematics problems on this spaceship adventure"
+    image: "/images/google_form_physics_escape_room_kinematics.png"
+    link: "https://www.teacherspayteachers.com/Product/Google-Form-Physics-Escape-Room-on-High-School-Kinematics-12543781"
