@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://physicsworksheets.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/worksheets/electricity/</loc>
+    <loc>https://physicsworksheets.github.io/worksheets/electricity/</loc>
   </url><url>
-    <loc>http://localhost:1313/worksheets/energy/</loc>
+    <loc>https://physicsworksheets.github.io/worksheets/energy/</loc>
   </url><url>
-    <loc>http://localhost:1313/worksheets/momentum/</loc>
+    <loc>https://physicsworksheets.github.io/worksheets/momentum/</loc>
   </url><url>
-    <loc>http://localhost:1313/worksheets/newton/</loc>
+    <loc>https://physicsworksheets.github.io/worksheets/newton/</loc>
   </url><url>
-    <loc>http://localhost:1313/worksheets/waves/</loc>
+    <loc>https://physicsworksheets.github.io/worksheets/waves/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://physicsworksheets.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://physicsworksheets.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/worksheets/</loc>
+    <loc>https://physicsworksheets.github.io/worksheets/</loc>
   </url>
 </urlset>
