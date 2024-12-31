@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Worksheets on Physics Worksheets</title>
-    <link>https://physicsworksheets.github.io/worksheets/</link>
+    <link>http://localhost:1313/worksheets/</link>
     <description>Recent content in Worksheets on Physics Worksheets</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://physicsworksheets.github.io/worksheets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/worksheets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Electricity and Coulomb&#39;s Law  Worksheets</title>
-      <link>https://physicsworksheets.github.io/worksheets/electricity/</link>
+      <link>http://localhost:1313/worksheets/electricity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://physicsworksheets.github.io/worksheets/electricity/</guid>
+      <guid>http://localhost:1313/worksheets/electricity/</guid>
       <description></description>
     </item>
     <item>
       <title>Energy Worksheets</title>
-      <link>https://physicsworksheets.github.io/worksheets/energy/</link>
+      <link>http://localhost:1313/worksheets/energy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://physicsworksheets.github.io/worksheets/energy/</guid>
+      <guid>http://localhost:1313/worksheets/energy/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinematics Worksheets</title>
-      <link>https://physicsworksheets.github.io/worksheets/kinematics/</link>
+      <link>http://localhost:1313/worksheets/kinematics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://physicsworksheets.github.io/worksheets/kinematics/</guid>
+      <guid>http://localhost:1313/worksheets/kinematics/</guid>
       <description></description>
     </item>
     <item>
       <title>Momentum Worksheets</title>
-      <link>https://physicsworksheets.github.io/worksheets/momentum/</link>
+      <link>http://localhost:1313/worksheets/momentum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://physicsworksheets.github.io/worksheets/momentum/</guid>
+      <guid>http://localhost:1313/worksheets/momentum/</guid>
       <description></description>
     </item>
     <item>
       <title>Newton&#39;s Laws Worksheets</title>
-      <link>https://physicsworksheets.github.io/worksheets/newton/</link>
+      <link>http://localhost:1313/worksheets/newton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://physicsworksheets.github.io/worksheets/newton/</guid>
+      <guid>http://localhost:1313/worksheets/newton/</guid>
       <description></description>
     </item>
     <item>
       <title>Oscillations and Waves Worksheets</title>
-      <link>https://physicsworksheets.github.io/worksheets/waves/</link>
+      <link>http://localhost:1313/worksheets/waves/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://physicsworksheets.github.io/worksheets/waves/</guid>
+      <guid>http://localhost:1313/worksheets/waves/</guid>
       <description></description>
     </item>
   </channel>

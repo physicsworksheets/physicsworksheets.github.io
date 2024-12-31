@@ -1,6 +1,7 @@
 worksheets:
-  - title: "Momentum Guided Notes"
+  - title: "Momentum Scaffolded Problem Solving"
     image: "/images/momentumGuidedNotes.png"
+    link: "https://www.teacherspayteachers.com/Product/Momentum-and-Impulse-Momentum-Theorem-Scaffolded-Problem-Solving-w-Answer-Key-12750552"
     link: "https://www.teacherspayteachers.com/Product/Momentum-and-Impulse-Momentum-Theorem-Guided-Notes-with-Answer-Key-12750552"
   - title: "Momentum: Practice Problems"
     image: "/images/impulse_momentum_theorem_worksheet.png"
@@ -11,3 +12,6 @@ worksheets:
   - title: "Maze: Momentum (easy version)"
     image: "/images/practice_p=mv_puzzle.png"
     link: "https://www.teacherspayteachers.com/Product/momentum-maze-activity-12482740"
+  - title: "Perfectly inelastic collisions: scaffolded practice problems"
+    image: "/images/perfectly_inelastic_collisions_physics.png"
+    link: "https://www.teacherspayteachers.com/Product/Conservation-of-Momentum-perfectly-inelastic-collisions-worksheet-12763741"
